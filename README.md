@@ -1,1 +1,7 @@
-# Natalie
+name=input('Enter your name :')
+grade=input('Enter your grade level: ')
+english=input('Enter your English grade: ')
+math=input('Enter your Math grade: ')
+history=input('Enter your History grade: ')
+science=input('Enter your Science grade: ')
+elective=inout('Enter your Elective grade: ')
